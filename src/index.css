@@ -15,7 +15,8 @@
 }
 
 * {
-  font-family: "Aurebesh", sans-serif;
+  /* font-family: "Aurebesh", sans-serif; */
+  font-family: sans-serif;
 }
 
 body {
